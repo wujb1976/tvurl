@@ -3,7 +3,16 @@
   "lives": [
     {"name": "migu","type": 0,"url": "https://develop202.github.io/migu_video/interface.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
     {"name": "live","type": 0,"url": "https://epg.pw/test_channels.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
-    {"name": "ipv6","type": 0,"url": "./tvboxtv.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}
+    {"name": "ahyd","type": 0,"url": "https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+{"name": "tianli1680xymm","type": 0,"url": "https://gh-proxy.com/https://github.com/tianli1680/xymm/blob/main/xymm.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+
+{"name": "qingtingjjjjjjj","type": 0,"url": "https://gh-proxy.com/https://github.com/qingtingjjjjjjj/Taliban/blob/main/zby.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+{"name": "kakaxi","type": 0,"url": "https://gh-proxy.com/https://github.com/kakaxi-1/IPTV/blob/main/ipv4.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+{"name": "kimwang1978","type": 0,"url": "https://gh-proxy.com/https://github.com/kimwang1978/collect-txt/blob/main/bbxx.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+{"name": "q1017673817","type": 0,"url": "https://gh-proxy.com/https://github.com/q1017673817/iptvz/blob/main/组播_安徽电信.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+
+{"name": "Free-TV","type": 0,"url": "https://gh-proxy.com/https://github.com/Free-TV/IPTV/blob/master/playlist.m3u8","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+    {"name": "iptv-org-cn","type": 0,"url": "https://gh-proxy.com/https://github.com/iptv-org/iptv/blob/master/streams/cn.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}
   ],
   "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
   "sites": [
